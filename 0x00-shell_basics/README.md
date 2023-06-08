@@ -1,1 +1,1 @@
-Scripst
+Scripts for bash commands
