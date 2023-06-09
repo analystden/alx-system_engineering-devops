@@ -1,0 +1,2 @@
+#!/bin/bash
+mpv --no-config --really-quiet StarWarsIVepisode.mp4
