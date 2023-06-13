@@ -1,2 +1,2 @@
 #!/bin/bash
-sed -i  iacta
+sed -i '$p'  iacta
