@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -a -vd ./ ../ [0-9]* [a-zA-A]* */ | tr '\n' ', '
+ls -amfF
